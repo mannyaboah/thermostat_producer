@@ -1,3 +1,7 @@
+# Home Things Project
+
+![IOT_image](Home-IOT-Dashboard.png)
+
 Thermostat Producer
 
 ## Start Kafka
